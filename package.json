@@ -1,7 +1,9 @@
 {
     "name": "dumais",
     "version": "1.0.0",
+    "description": "Get to know Me via `npx dumais`",
     "bin": {
         "dumais": "index.js"
-    }
+    },
+    "keywords": ["mike dumais", "mike", "dumais", "mikedu"]
 }

@@ -1,7 +1,16 @@
 {
-    "name": "dumais",
-    "version": "1.0.0",
-    "bin": {
-        "dumais": "index.js"
-    }
+  "name": "dumais",
+  "version": "1.0.0",
+  "description": "Get to know Dumais via `npx dumais`",
+  "bin": {
+    "dumais": "index.js"
+  },
+  "dependencies": {
+    "cli-welcome": "^2.2.2"
+  },
+  "keywords": [
+    "mike dumais",
+    "mike",
+    "dumais"
+  ]
 }

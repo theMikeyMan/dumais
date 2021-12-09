@@ -16,7 +16,7 @@ welcome({
 console.log(`
 - 👋 I'm Mike Dumais
 
-- 👀 I’m interested in GIS & modern web development
+- 👀 Some of my interests are GIS & modern web development
 
 - 🌱 I’m currently learning Node & backend development
 
